@@ -5,3 +5,6 @@ GTSRB_Training
 pngs
 Python code for GTSRB
 *.zip
+train-pngs
+test-pngs
+trainfolders
