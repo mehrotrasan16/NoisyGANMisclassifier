@@ -9,3 +9,4 @@ train-pngs
 test-pngs
 trainfolders
 testfolders
+*.h5
