@@ -10,3 +10,5 @@ test-pngs
 trainfolders
 testfolders
 *.h5
+noisydata
+compressed
